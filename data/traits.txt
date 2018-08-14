@@ -1,0 +1,279 @@
+Name	Taxon	Trophospecie	Habitat	FunctionalGroup
+Beagle	copépodos	Acartia tonsa 	pelagic	zooplankton
+Beagle	cnidarios	Actinaria	benthic	benthos
+Beagle	macroalgas	Adenocystis utricularis	benthic	basal taxa
+Beagle	peces	Agonopsis chiloensis	benthic	fish
+Beagle	macroalgas	Algae	benthic	basal taxa
+Beagle	foraminiferos	Ammodiscus sp.	benthic	benthos
+Beagle	anfípodos	Amphipoda	benthopelagic	zooplankton
+Beagle	estrellas	Anasterias antarctica	benthic	benthos
+Beagle	estrellas	Anasterias minuta	benthic	benthos
+Beagle	erizos	Arbacia dufresnii	benthic	benthos
+Beagle	ascidias	Ascidiacea	benthic	benthos
+Beagle	estrellas	Asteroidea	benthic	benthos
+Beagle	bivalvos	Aulacomya atra	benthic	benthos
+Beagle	cnidarios	Aurelia aurita 	benthopelagic	zooplankton
+Beagle	peces	Austrolycus depressiceps	benthic	fish
+Beagle	cirripedios	Austromegabalanus psittacus	benthic	benthos
+Beagle	zooplancton	Bacteria	benthopelagic	zooplankton
+Beagle	cirripedios	Balanus sp.	benthic	benthos
+Beagle	estrellas	Bathybiaster loripes	benthic	benthos
+Beagle	peces	Bathyraja albomaculata	benthic	fish
+Beagle	peces	Bathyraja brachyurops	benthic	fish
+Beagle	bivalvos	Bivalvia	benthic	benthos
+Beagle	foraminiferos	Buccella peruviana	benthic	benthos
+Beagle	detrito	C3 Plants	benthopelagic	detritus
+Beagle	copépodos	Calanus australis	pelagic	zooplankton
+Beagle	gastrópodos	Calliostoma nudum	benthic	benthos
+Beagle	macroalgas	Callophyllis pinnata	benthic	basal taxa
+Beagle	decápodos	Campylonotus vagans	benthic	benthos
+Beagle	detrito	Carrion	benthopelagic	detritus
+Beagle	cefalópodos	Cephalopoda	benthopelagic	benthos
+Beagle	macroalgas	Ceramium diaphanum	benthic	basal taxa
+Beagle	zooplancton	Chaetognatha	benthopelagic	zooplankton
+Beagle	peces	Champsocephalus esox 	benthopelagic	fish
+Beagle	cnidarios	Chrysaora plocamia	benthopelagic	zooplankton
+Beagle	cirripedios	Chthamalus sp.	benthic	benthos
+Beagle	foraminiferos	Cibicides sp.	benthic	benthos
+Beagle	estrellas	Comasterias lurida	benthic	benthos
+Beagle	peces	Congiopodus peruvianus	benthic	fish
+Beagle	copépodos	Copepoda	benthopelagic	zooplankton
+Beagle	peces	Cottoperca gobio	benthic	fish
+Beagle	gastrópodos	Crepipatella dilatata	benthic	benthos
+Beagle	foraminiferos	Cribrostomoides sp.	benthic	benthos
+Beagle	ctenóforos	Ctenophora	benthopelagic	zooplankton
+Beagle	fitoplancton	Diatomea	pelagic	basal taxa
+Beagle	fitoplancton	Dinophyceae	pelagic	basal taxa
+Beagle	peces	Dipturus trachyderma	benthic	fish
+Beagle	foraminiferos	Discorbis peruvianus	benthic	benthos
+Beagle	peces	Dissostichus eleginoides	benthopelagic	fish
+Beagle	copépodos	Drepanopus forcipatus	pelagic	zooplankton
+Beagle	peces	Eleginops maclovinus	benthic	fish
+Beagle	foraminiferos	Elphidium sp.	benthic	benthos
+Beagle	macroalgas	Enteromorpha sp.	benthic	basal taxa
+Beagle	decápodos	Euphausiacea	pelagic	zooplankton
+Beagle	decápodos	Eurypodius latreillii	benthic	benthos
+Beagle	anfípodos	Eusirus antarcticus	benthic	zooplankton
+Beagle	isópodos	Exosphaeroma gigas 	benthic	benthos
+Beagle	gastrópodos	Fissurella oriens	benthic	benthos
+Beagle	gastrópodos	Fissurella picta	benthic	benthos
+Beagle	gastrópodos	Fissurella sp.	benthic	benthos
+Beagle	foraminiferos	Foraminifera	benthopelagic	zooplankton
+Beagle	gastrópodos	Fusitriton magellanicus	benthic	benthos
+Beagle	bivalvos	Gaimardia trapesina	benthic	benthos
+Beagle	peces	Galaxias maculatus	pelagic	fish
+Beagle	gastrópodos	Gastropoda	benthic	benthos
+Beagle	peces	Genypterus blacodes	benthic	fish
+Beagle	cangrejos	Halicarcinus planatus	benthic	benthos
+Beagle	peces	Harpagifer bispinis	benthic	fish
+Beagle	anfípodos	Heterophoxus videns	benthic	zooplankton
+Beagle	pepinos	Holothuroidea	benthic	benthos
+Beagle	bivalvos	Hyatella solida	benthic	benthos
+Beagle	cnidarios	Hydrozoa	benthopelagic	zooplankton
+Beagle	isópodos	Isopoda	benthic	benthos
+Beagle	decápodos	Lithodes santolla	benthic	benthos
+Beagle	mamíferos	Lontra provocax	land-based	marine mammal
+Beagle	erizos	Loxechinus albus	benthic	benthos
+Beagle	macroalgas	Macrocystis pyrifera	benthic	basal taxa
+Beagle	peces	Macruronus magellanicus	pelagic	fish
+Beagle	braquiópodos	Magellania venosa	benthic	benthos
+Beagle	gastrópodos	Margarella violacea	benthic	benthos
+Beagle	briozoos	Membranipora isabelleana	benthic	benthos
+Beagle	peces	Merluccius hubbsi	benthopelagic	fish
+Beagle	copépodos	Metridia lucens 	pelagic	zooplankton
+Beagle	decápodos	Munida gregaria	benthopelagic	benthos
+Beagle	esponjas	Mycale magellanica	benthic	benthos
+Beagle	crustáceos	Mysida	benthopelagic	zooplankton
+Beagle	bivalvos	Mytilidae	benthic	benthos
+Beagle	bivalvos	Mytilus chilensis	benthic	benthos
+Beagle	peces	Myxine glutinosa	benthic	fish
+Beagle	gastrópodos	Nacella deaurata	benthic	benthos
+Beagle	gastrópodos	Nacella magellanica	benthic	benthos
+Beagle	gastrópodos	Nacella mytellina	benthic	benthos
+Beagle	nemátodos	Nematoda	benthic	benthos
+Beagle	nemertinos	Nemertea	benthic	benthos
+Beagle	cirripedios	Notobalanus flosculus	benthic	benthos
+Beagle	cirripedios	Notochthamalus scabrosus	benthic	benthos
+Beagle	macroalgas	Notogenia fastigiata	benthic	basal taxa
+Beagle	peces	Notothenia sp.	benthopelagic	fish
+Beagle	cnidarios	Obelia sp.	benthopelagic	zooplankton
+Beagle	peces	Odontesthes nigricans	pelagic	fish
+Beagle	tunicados	Oikopleura sp.	pelagic	zooplankton
+Beagle	copépodos	Oithona similis 	pelagic	zooplankton
+Beagle	copépodos	Oncaea curvata	pelagic	zooplankton
+Beagle	peces	Oncorhynchus tshawytscha	pelagic	fish
+Beagle	estrellas	Ophiophragmus chilensis	benthic	benthos
+Beagle	estrellas	Ophiuroidea	benthic	benthos
+Beagle	zooplancton	Ostracoda	benthopelagic	zooplankton
+Beagle	gastrópodos	Pachysiphonaria lessoni	benthic	benthos
+Beagle	decápodos	Paguroidea	benthic	benthos
+Beagle	cangrejos	Pagurus forceps	benthic	benthos
+Beagle	cangrejos	Pagurus sp.	benthic	benthos
+Beagle	copépodos	Paracalanus parvus 	pelagic	zooplankton
+Beagle	decápodos	Paralomis granulosa	benthic	benthos
+Beagle	peces	Paranotothenia magellanica	benthopelagic	fish
+Beagle	gastrópodos	Pareuthria fuscata	benthic	benthos
+Beagle	gastrópodos	Pareuthria fuscata	benthic	benthos
+Beagle	peces	Patagonotothen brevícauda brevicauda	benthic	fish
+Beagle	peces	Patagonotothen cornucola	benthic	fish
+Beagle	peces	Patagonotothen longipes ramsayi	benthopelagic	fish
+Beagle	peces	Patagonotothen sima	benthopelagic	fish
+Beagle	peces	Patagonotothen tessellata	benthopelagic	fish
+Beagle	estrellas	Patiriella fimbriata	benthic	benthos
+Beagle	cangrejos	Peltarion spinosulum	benthic	benthos
+Beagle	bivalvos	Perumytilus purpuratus	benthic	benthos
+Beagle	fitoplancton	Phytoplankton	pelagic	basal taxa
+Beagle	quitones	Plaxiphora sp.	benthic	benthos
+Beagle	cladóceros	Podon leuckartii	pelagic	zooplankton
+Beagle	poliquetos	Polychaeta	benthopelagic	benthos
+Beagle	quitones	Polyplacophora	benthic	benthos
+Beagle	detrito	POM	benthopelagic	detritus
+Beagle	estrellas	Porania antartica	benthic	benthos
+Beagle	esponjas	Porifera	benthic	benthos
+Beagle	priapúlidos	Priapulida	benthic	benthos
+Beagle	peces	Psammobatis rudis	benthic	fish
+Beagle	peces	Psammobatis scobina	benthic	fish
+Beagle	erizos	Pseudechinus magellanicus	benthic	benthos
+Beagle	zooplancton	Radiolaria	pelagic	zooplankton
+Beagle	peces	Salilota australis	benthic	fish
+Beagle	zooplancton	Salpidae	pelagic	zooplankton
+Beagle	peces	Schroederichthys bivius	benthic	fish
+Beagle	cnidarios	Scyphozoa	benthopelagic	zooplankton
+Beagle	macroalgas	Scytothamus fasciculatus	benthic	basal taxa
+Beagle	mamíferos	Sea lions	land-based	marine mammal
+Beagle	poliquetos	Spirorbinae	benthic	benthos
+Beagle	detrito	SPOM	benthic	detritus
+Beagle	peces	Sprattus fuegensis	pelagic	fish
+Beagle	peces	Squalus acanthias	benthopelagic	fish
+Beagle	peces	Stromateus brasiliensis	pelagic	fish
+Beagle	ascidias	Styela magalhaensis	benthic	benthos
+Beagle	crustáceos	Tanaidacea	benthic	benthos
+Beagle	zooplancton	Thaliacea	pelagic	zooplankton
+Beagle	zooplancton	Tintinnidae	pelagic	zooplankton
+Beagle	copépodos	Tisbe sp.	pelagic	zooplankton
+Beagle	gastrópodos	Trophon geversianus	benthic	benthos
+Beagle	macroalgas	Ulva rigida	benthic	basal taxa
+Beagle	gastrópodos	Xymenopsis muriciformis	benthic	benthos
+Beagle	zooplancton	Zooplankton	benthopelagic	zooplankton
+PotterCove	macroalgas	Adenocystis utricularis	benthic	basal taxa
+PotterCove	poliquetos	Agalophamus trissophyllus	benthic	benthos
+PotterCove	ascidias	Ascidiacea	benthic	benthos
+PotterCove	macroalgas	Ascoseira mirabilis	benthic	basal taxa
+PotterCove	gastrópodos	Austrodoris kerguelensis	benthic	benthos
+PotterCove	zooplancton	Benthic Copepoda	benthic	zooplankton
+PotterCove	fitoplancton	Benthic Diatomea	benthic	basal taxa
+PotterCove	bivalvos	Bivalvia	benthic	benthos
+PotterCove	anfípodos	Bovallia gigantea	benthic	zooplankton
+PotterCove	macroalgas	Callophyllis atrosanguinea 	benthic	basal taxa
+PotterCove	briozoos	Camptoplites sp.	benthic	benthos
+PotterCove	briozoos	Cellarinella sp.	benthic	benthos
+PotterCove	peces	Chaenocephalus aceratus 	benthic	fish
+PotterCove	esponjas	Chalinidae (Haliclonidae)	benthic	benthos
+PotterCove	anfípodos	Cheirimedon femoratus	benthic	zooplankton
+PotterCove	poliquetos	Cirratulidae	benthic	benthos
+PotterCove	zooplancton	Copepoda	benthopelagic	zooplankton
+PotterCove	cumáceos	Cumacea	benthic	benthos
+PotterCove	macroalgas	Curdiea racovitzae	benthic	basal taxa
+PotterCove	bivalvos	Dacrydyum sp.	benthic	benthos
+PotterCove	esponjas	Dendrilla antarctica	benthic	benthos
+PotterCove	macroalgas	Desmarestia anceps	benthic	basal taxa
+PotterCove	macroalgas	Desmarestia antarctica	benthic	basal taxa
+PotterCove	macroalgas	Desmarestia menziesii	benthic	basal taxa
+PotterCove	detrito	Detrito primario	benthopelagic	detritus
+PotterCove	detrito	Detrito secundario	benthic	detritus
+PotterCove	fitoplancton	Diatomea	pelagic	basal taxa
+PotterCove	estrellas	Diplasterias brucei	benthic	benthos
+PotterCove	gastrópodos	Doris kerguelensis	benthic	benthos
+PotterCove	gastrópodos	Eatoniella sp.	benthic	benthos
+PotterCove	fitoplancton	Epiphytic Diatomea	benthic	basal taxa
+PotterCove	poliquetos	Errantia	benthopelagic	benthos
+PotterCove	decápodos	Euphausia superba	pelagic	zooplankton
+PotterCove	anfípodos	Eurymera monticulosa	benthic	zooplankton
+PotterCove	gastrópodos	Gastropoda	benthic	benthos
+PotterCove	poliquetos	Gattyana cristata	benthic	benthos
+PotterCove	macroalgas	Geminocarpus geminatus	benthic	basal taxa
+PotterCove	macroalgas	Georgiella confluens 	benthic	basal taxa
+PotterCove	macroalgas	Gigartina skottsbergii	benthic	basal taxa
+PotterCove	anfípodos	Gitanopsis squamosa	benthic	zooplankton
+PotterCove	isópodos	Glyptonotus antarcticus	benthic	benthos
+PotterCove	anfípodos	Gondogeneia antarctica	benthic	zooplankton
+PotterCove	peces	Harpagifer antarcticus	benthic	fish
+PotterCove	quitones	Hemiarthrum setulosum	benthic	benthos
+PotterCove	anfípodos	Hippomedon kergueleni	benthic	zooplankton
+PotterCove	cnidarios	Hydrozoa	benthopelagic	benthos
+PotterCove	anfípodos	Hyperiidea	pelagic	zooplankton
+PotterCove	macroalgas	Iridaea cordata	benthic	basal taxa
+PotterCove	gastrópodos	Laevilacunaria antarctica	benthic	benthos
+PotterCove	macroalgas	Lambia antarctica 	benthic	basal taxa
+PotterCove	bivalvos	Laternula elliptica	benthic	benthos
+PotterCove	peces	Lepidonotothen nudifrons	benthic	fish
+PotterCove	cnidarios	Malacobelemnon daytoni	benthic	benthos
+PotterCove	poliquetos	Maldanidae	benthic	benthos
+PotterCove	gastrópodos	Margarella antarctica	benthic	benthos
+PotterCove	macroalgas	Monostroma hariotii	benthic	basal taxa
+PotterCove	esponjas	Mycale acerata	benthic	benthos
+PotterCove	macroalgas	Myriogramme manginii	benthic	basal taxa
+PotterCove	bivalvos	Mysella sp.	benthic	benthos
+PotterCove	crustáceos	Mysida	benthopelagic	zooplankton
+PotterCove	gastrópodos	Nacella concinna	benthic	benthos
+PotterCove	detrito	Necromass	benthopelagic	detritus
+PotterCove	nemátodos	Nematoda	benthic	benthos
+PotterCove	nemertinos	Nemertea	benthic	benthos
+PotterCove	gastrópodos	Neobuccinum eatoni	benthic	benthos
+PotterCove	poliquetos	Nereididae 	benthopelagic	benthos
+PotterCove	macroalgas	Neuroglossum delesseriae	benthic	basal taxa
+PotterCove	peces	Notothenia coriiceps	benthopelagic	fish
+PotterCove	peces	Notothenia rossii	benthopelagic	fish
+PotterCove	cefalópodos	Octopoda	benthopelagic	benthos
+PotterCove	estrellas	Odontaster meridionalis	benthic	benthos
+PotterCove	estrellas	Odontaster validus	benthic	benthos
+PotterCove	oligoquetos	Oligochaeta	benthic	benthos
+PotterCove	poliquetos	Ophaeliidae	benthic	benthos
+PotterCove	estrellas	Ophionotus victoriae	benthic	benthos
+PotterCove	anfípodos	Oradarea bidentata	benthic	zooplankton
+PotterCove	poliquetos	Orbiniidae	benthic	benthos
+PotterCove	zooplancton	Ostracoda	benthopelagic	zooplankton
+PotterCove	macroalgas	Palmaria decipiens	benthic	basal taxa
+PotterCove	macroalgas	Pantoneura plocamioides 	benthic	basal taxa
+PotterCove	peces	Parachaenichthys charcoti	benthic	fish
+PotterCove	anfípodos	Paradexamine sp.	benthic	zooplankton
+PotterCove	isópodos	Paraserolis polita	benthic	benthos
+PotterCove	nemertinos	Parborlasia corrugatus	benthic	benthos
+PotterCove	anfípodos	Pariphimedia integricauda	benthic	zooplankton
+PotterCove	estrellas	Perknaster aurorae	benthic	benthos
+PotterCove	estrellas	Perknaster fuscus antarticus	benthic	benthos
+PotterCove	macroalgas	Phaeurus antarcticus 	benthic	basal taxa
+PotterCove	fitoplancton	Phytoplankton	pelagic	basal taxa
+PotterCove	macroalgas	Picconiella plumosa 	benthic	basal taxa
+PotterCove	isópodos	Plakarthrium punctatissimum	benthic	benthos
+PotterCove	zooplankton	Plancton	pelagic	zooplankton
+PotterCove	macroalgas	Plocamium cartilagineum	benthic	basal taxa
+PotterCove	poliquetos	Polychaeta meiofaunal	benthic	benthos
+PotterCove	anfípodos	Pontogeneiella sp.	benthic	zooplankton
+PotterCove	esponjas	Porifera	benthic	benthos
+PotterCove	macroalgas	Porphyra plocamiestris	benthic	basal taxa
+PotterCove	priapúlidos	Priapulida	benthic	benthos
+PotterCove	anfípodos	Prostebbingia gracilis	benthic	zooplankton
+PotterCove	anfípodos	Prostebbingia sp.	benthic	zooplankton
+PotterCove	peces	Protomyctophum sp.	pelagic	fish
+PotterCove	anfípodos	Pseudorchomene plebs	benthic	zooplankton
+PotterCove	macroalgas	Pyropia plocamiestris 	benthic	basal taxa
+PotterCove	esponjas	Rosella antartica	benthic	benthos
+PotterCove	esponjas	Rossella sp.	benthic	benthos
+PotterCove	zooplancton	Salpidae	pelagic	zooplankton
+PotterCove	isópodos	Serolis sp.	benthic	benthos
+PotterCove	poliquetos	Spionidae	benthic	benthos
+PotterCove	cefalópodos	Squid	benthopelagic	benthos
+PotterCove	erizos	Sterechinus neumayeri	benthic	benthos
+PotterCove	esponjas	Stylocordyla borealis	benthic	benthos
+PotterCove	crustáceos	Tanaidacea	benthic	benthos
+PotterCove	gastrópodos	Terebellidae	benthic	benthos
+PotterCove	macroalgas	Trematocarpus antarcticus	benthic	basal taxa
+PotterCove	peces	Trematomus bernacchii	benthopelagic	fish
+PotterCove	peces	Trematomus newnesi	benthopelagic	fish
+PotterCove	macroalgas	Ulothrix sp.	benthic	basal taxa
+PotterCove	macroalgas	Urospora penicilliformis	benthic	basal taxa
+PotterCove	cnidarios	Urticinopsis antarctica	benthic	benthos
+PotterCove	anfípodos	Waldeckia obesa	benthic	zooplankton
+PotterCove	bivalvos	Yoldia eightsi	benthic	benthos
+PotterCove	zooplancton	Zooplankton	benthopelagic	zooplankton

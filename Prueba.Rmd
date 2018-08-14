@@ -1,0 +1,21 @@
+##CÁLCULO Y GRÁFICO DE LAS PROPORCIONES DE LOS HÁBITATS Y GRUPOS FUNCIONALES DE UNA COMUNIDAD
+
+```{r calcPropHabFG, eval=TRUE, echo=FALSE,message=FALSE,results='asis'}
+source("R/Proportion.R")
+
+require(dplyr)
+require(ggplot2)
+require(knitr)
+
+tabla <- readFile("data/traits.txt")
+
+habitat <- pH(tabla)
+functionalGroup <- pFG(tabla)
+
+tablapH(habitat)
+tablapFG(functionalGroup)
+
+plotpHabitat(habitat)
+plotpFG(functionalGroup)
+
+```
