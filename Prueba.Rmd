@@ -5,15 +5,11 @@ source("R/Proportion.R")
 
 require(dplyr)
 require(ggplot2)
-require(knitr)
 
 tabla <- readFile("data/traits.txt")
 
 habitat <- pH(tabla)
 functionalGroup <- pFG(tabla)
-
-tablapH(habitat)
-tablapFG(functionalGroup)
 
 plotpHabitat(habitat)
 plotpFG(functionalGroup)
