@@ -72,7 +72,7 @@ BeagleChannel	benthic	benthos
 BeagleChannel	benthopelagic	zooplankton
 BeagleChannel	benthic	benthos
 BeagleChannel	benthic	benthos
-BeagleChannel	land-based	marine mammal
+BeagleChannel	land-based	marine-mammal
 BeagleChannel	benthic	benthos
 BeagleChannel	benthic	basal taxa
 BeagleChannel	pelagic	fish
