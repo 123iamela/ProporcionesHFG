@@ -26,17 +26,17 @@ readFile<- function(fileName) {
 #'
 #' @return una tabla con los siguientes campos:
 #'         Name: nombre del ecosistema
-#'         FunctionalGroup: categorias dentro de habitat/grupo funcional
+#'         Habitat: categorias dentro de habitat/grupo funcional
 #'         n: total de especies por categoría
-#'         propFG: proporción de especies por categoria
+#'         propH: proporción de especies por categoria
 #'
 #' @export
 #' @importFrom dplyr    group_by %>% summarise mutate
 #'
 #' @examples
-#' Habitat <- pH(tabla)
+#' Habitat <- proporcionH(tabla)
 
-pH <- function(data) {
+proporcionH <- function(data) {
 
   prop <- data %>% group_by(Name,Habitat) %>% summarize(n= n()) %>% mutate(propH=n/sum(n))
 
@@ -57,9 +57,9 @@ pH <- function(data) {
 #' @importFrom dplyr    group_by %>% summarise mutate
 #'
 #' @examples
-#' FunctionalGroup <- pFG(tabla)
+#' FunctionalGroup <- proporcionFG(tabla)
 
-pFG <- function(data) {
+proporcionFG <- function(data) {
 
   prop <- data %>% group_by(Name,FunctionalGroup) %>% summarize(n= n()) %>% mutate(propFG=n/sum(n))
 
@@ -69,7 +69,7 @@ pFG <- function(data) {
 
 #'Grafico de las proporciones de habitat
 #'
-#'@param pH un data frame
+#'@param proporcionH un data frame
 #'
 #' @return un gráfico
 #'
@@ -79,16 +79,16 @@ pFG <- function(data) {
 #' @examples
 #' plotpHabitat(Habitat)
 
-plotpHabitat <- function(pH) {
+plotpHabitat <- function(proporcionH) {
 
-  plot <- ggplot(pH, aes(x=factor(Habitat), y=propH, fill=Name)) + geom_bar(stat="identity", position=position_dodge()) + theme_bw() + scale_fill_brewer(palette = "Pastel1")
+  plot <- ggplot(proporcionH, aes(x=factor(Habitat), y=propH, fill=Name)) + geom_bar(stat="identity", position=position_dodge()) + theme_bw() + scale_fill_brewer(palette = "Pastel1")
 
   return(plot)
 }
 
 #'Grafico de las proporciones de grupos funcionales
 #'
-#'@param pFG un data frame
+#'@param proporcionFG un data frame
 #'
 #' @return un gráfico
 #'
@@ -98,9 +98,9 @@ plotpHabitat <- function(pH) {
 #' @examples
 #' plotpFG(FunctionalGroup)
 
-plotpFG <- function(pFG) {
+plotpFG <- function(proporcionFG) {
 
-  plot <- ggplot(pFG, aes(x=factor(FunctionalGroup), y=propFG, fill=Name)) + geom_bar(stat="identity", position=position_dodge()) + theme_bw() + scale_fill_brewer(palette = "Pastel1")
+  plot <- ggplot(proporcionFG, aes(x=factor(FunctionalGroup), y=propFG, fill=Name)) + geom_bar(stat="identity", position=position_dodge()) + theme_bw() + scale_fill_brewer(palette = "Pastel1")
 
   return(plot)
 }

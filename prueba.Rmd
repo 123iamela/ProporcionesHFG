@@ -8,8 +8,8 @@ require(ggplot2)
 
 tabla <- readFile("data/traits.txt")
 
-habitat <- pH(tabla)
-functionalGroup <- pFG(tabla)
+habitat <- proporcionH(tabla)
+functionalGroup <- proporcionFG(tabla)
 
 plotpHabitat(habitat)
 plotpFG(functionalGroup)

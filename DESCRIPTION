@@ -1,10 +1,10 @@
 Package: Proporciones
 Type: Package
-Title: Gráfico y proporción de habitats y grupos funcionales
+Title: Grafico y proporcion de habitats y grupos funcionales
 Version: 0.1.0.9000
 Author: person("Iara D.", "Rodriguez", email="irodriguez@campus.edu.ar", role=("aut"))
 Maintainer: Iara D. Rodriguez <irodriguez@campus.ungs.edu.ar>
-Description: Este paquete calcula y grafica la proporción de cada categoría de habitat y grupo funcional de un ecosistema.
+Description: Este paquete calcula y grafica la proporción de cada categoria de habitat y grupo funcional de un ecosistema.
 License: MIT
 Encoding: UTF-8
 LazyData: true
