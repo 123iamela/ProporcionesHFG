@@ -71,7 +71,7 @@ proporcionFG <- function(data) {
 #'
 #'@param proporcionH un data frame
 #'
-#' @return un gráfico
+#' @return un gráfico de barras
 #'
 #' @export
 #' @importFrom ggplot2 ggplot geom_bar theme_bw scale_fill_brewer
@@ -90,7 +90,7 @@ plotpHabitat <- function(proporcionH) {
 #'
 #' @param proporcionFG un data frame
 #'
-#' @return un gráfico
+#' @return un gráfico de barras
 #'
 #' @export
 #' @importFrom ggplot2 ggplot geom_bar theme_bw scale_fill_brewer

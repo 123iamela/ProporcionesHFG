@@ -1,13 +1,13 @@
 # Proporción de cada tipo de hábitat y grupo funcional de un ecosistema
 
-Paquete de R para calcular y graficar la proporción de los traits habitat y grupo funcional de las especies de un ecosistema
+Paquete de R para calcular y graficar la proporción de cada categoria de los traits habitat y grupo funcional de las especies de un ecosistema.
 
 ### Instalación
 
 ```R
-require(devtools)
-#si no tienes el paquete, correr install.packages("devtools")
-install_github("123iamela/ProporcionesHFG")
+install.packages("devtools")
+require("devtools")
+devtools::install_github("123iamela/ProporcionesHFG")
 ```
 
 ### Set de datos de ejemplo
