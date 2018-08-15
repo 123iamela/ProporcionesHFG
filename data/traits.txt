@@ -1,4 +1,4 @@
-Name	Habitat	FuntionalGroup
+Name	Habitat	FunctionalGroup
 BeagleChannel	pelagic	zooplankton
 BeagleChannel	benthic	benthos
 BeagleChannel	benthic	basal
