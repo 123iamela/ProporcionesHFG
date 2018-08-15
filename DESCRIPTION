@@ -14,4 +14,4 @@ Imports:
  ggplot2 (>= 3.0.0)
 URL: https://github.com/123iamela/ProporcionesHFG.git
 Bugreport: https://github.com/123iamela/ProporcionesHFG/issues
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.0.9000

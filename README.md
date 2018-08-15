@@ -6,7 +6,7 @@ Paquete de R para calcular y graficar la proporción de los traits habitat y gru
 
 ```R
 require(devtools)
-#si no tienes el paquete, corre install.packages("devtools")
+#si no tienes el paquete, correr install.packages("devtools")
 install_github("123iamela/ProporcionesHFG")
 ```
 
@@ -21,5 +21,3 @@ El archivo "traits.txt" contiene la clasificación de las especies del canal de 
   * Kortsch, S., Primicerio, R., Fossheim, M., Dolgov, A. V, & Aschan, M. (2015). *Climate change alters the structure of arctic marine food webs due to poleward shifts of boreal generalists.* Proceedings of the Royal Society B: Biological Sciences, 282(1814), 20151546. https://doi.org/10.1098/rspb.2015.1546
 
   * Jacob, U., Thierry, A., Brose, U., Arntz, W. E., Berg, S., Brey, T., Mollmann, C. (2011). *The Role of Body Size in Complex Food Webs. A Cold Case.* Advances in Ecological Research, 45, 181–223. https://doi.org/10.1016/B978-0-12-386475-8.00005-8
-
-
