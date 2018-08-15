@@ -1,9 +1,9 @@
-Name	Habitat	FunctionalGroup
+Name	Habitat	FuntionalGroup
 BeagleChannel	pelagic	zooplankton
 BeagleChannel	benthic	benthos
-BeagleChannel	benthic	basal taxa
+BeagleChannel	benthic	basal
 BeagleChannel	benthic	fish
-BeagleChannel	benthic	basal taxa
+BeagleChannel	benthic	basal
 BeagleChannel	benthic	benthos
 BeagleChannel	benthopelagic	zooplankton
 BeagleChannel	benthic	benthos
@@ -25,11 +25,11 @@ BeagleChannel	benthic	benthos
 BeagleChannel	benthopelagic	detritus
 BeagleChannel	pelagic	zooplankton
 BeagleChannel	benthic	benthos
-BeagleChannel	benthic	basal taxa
+BeagleChannel	benthic	basal
 BeagleChannel	benthic	benthos
 BeagleChannel	benthopelagic	detritus
 BeagleChannel	benthopelagic	benthos
-BeagleChannel	benthic	basal taxa
+BeagleChannel	benthic	basal
 BeagleChannel	pelagic	zooplankton
 BeagleChannel	benthopelagic	fish
 BeagleChannel	benthopelagic	zooplankton
@@ -42,15 +42,15 @@ BeagleChannel	benthic	fish
 BeagleChannel	benthic	benthos
 BeagleChannel	benthic	benthos
 BeagleChannel	benthopelagic	zooplankton
-BeagleChannel	pelagic	basal taxa
-BeagleChannel	pelagic	basal taxa
+BeagleChannel	pelagic	basal
+BeagleChannel	pelagic	basal
 BeagleChannel	benthic	fish
 BeagleChannel	benthic	benthos
 BeagleChannel	benthopelagic	fish
 BeagleChannel	pelagic	zooplankton
 BeagleChannel	benthic	fish
 BeagleChannel	benthic	benthos
-BeagleChannel	benthic	basal taxa
+BeagleChannel	benthic	basal
 BeagleChannel	pelagic	zooplankton
 BeagleChannel	benthic	benthos
 BeagleChannel	benthic	zooplankton
@@ -72,9 +72,9 @@ BeagleChannel	benthic	benthos
 BeagleChannel	benthopelagic	zooplankton
 BeagleChannel	benthic	benthos
 BeagleChannel	benthic	benthos
-BeagleChannel	land-based	marine-mammal
+BeagleChannel	land_based	marine_mammal
 BeagleChannel	benthic	benthos
-BeagleChannel	benthic	basal taxa
+BeagleChannel	benthic	basal
 BeagleChannel	pelagic	fish
 BeagleChannel	benthic	benthos
 BeagleChannel	benthic	benthos
@@ -94,7 +94,7 @@ BeagleChannel	benthic	benthos
 BeagleChannel	benthic	benthos
 BeagleChannel	benthic	benthos
 BeagleChannel	benthic	benthos
-BeagleChannel	benthic	basal taxa
+BeagleChannel	benthic	basal
 BeagleChannel	benthopelagic	zooplankton
 BeagleChannel	pelagic	fish
 BeagleChannel	pelagic	zooplankton
@@ -121,7 +121,7 @@ BeagleChannel	benthopelagic	fish
 BeagleChannel	benthic	benthos
 BeagleChannel	benthic	benthos
 BeagleChannel	benthic	benthos
-BeagleChannel	pelagic	basal taxa
+BeagleChannel	pelagic	basal
 BeagleChannel	benthic	benthos
 BeagleChannel	pelagic	zooplankton
 BeagleChannel	benthopelagic	benthos
@@ -138,8 +138,8 @@ BeagleChannel	benthic	fish
 BeagleChannel	pelagic	zooplankton
 BeagleChannel	benthic	fish
 BeagleChannel	benthopelagic	zooplankton
-BeagleChannel	benthic	basal taxa
-BeagleChannel	land-based	marine-mammal
+BeagleChannel	benthic	basal
+BeagleChannel	land_based	marine_mammal
 BeagleChannel	benthic	benthos
 BeagleChannel	benthic	detritus
 BeagleChannel	pelagic	fish
@@ -151,19 +151,19 @@ BeagleChannel	pelagic	zooplankton
 BeagleChannel	pelagic	zooplankton
 BeagleChannel	pelagic	zooplankton
 BeagleChannel	benthic	benthos
-BeagleChannel	benthic	basal taxa
+BeagleChannel	benthic	basal
 BeagleChannel	benthic	benthos
 BeagleChannel	benthopelagic	zooplankton
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
 PotterCove	benthic	benthos
 PotterCove	benthic	benthos
-PotterCove	benthic	basal taxa
-PotterCove	benthic	benthos
-PotterCove	benthic	zooplankton
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
 PotterCove	benthic	benthos
 PotterCove	benthic	zooplankton
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
+PotterCove	benthic	benthos
+PotterCove	benthic	zooplankton
+PotterCove	benthic	basal
 PotterCove	benthic	benthos
 PotterCove	benthic	benthos
 PotterCove	benthic	fish
@@ -172,27 +172,27 @@ PotterCove	benthic	zooplankton
 PotterCove	benthic	benthos
 PotterCove	benthopelagic	zooplankton
 PotterCove	benthic	benthos
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
 PotterCove	benthic	benthos
 PotterCove	benthic	benthos
-PotterCove	benthic	basal taxa
-PotterCove	benthic	basal taxa
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
+PotterCove	benthic	basal
+PotterCove	benthic	basal
 PotterCove	benthopelagic	detritus
 PotterCove	benthic	detritus
-PotterCove	pelagic	basal taxa
+PotterCove	pelagic	basal
 PotterCove	benthic	benthos
 PotterCove	benthic	benthos
 PotterCove	benthic	benthos
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
 PotterCove	benthopelagic	benthos
 PotterCove	pelagic	zooplankton
 PotterCove	benthic	zooplankton
 PotterCove	benthic	benthos
 PotterCove	benthic	benthos
-PotterCove	benthic	basal taxa
-PotterCove	benthic	basal taxa
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
+PotterCove	benthic	basal
+PotterCove	benthic	basal
 PotterCove	benthic	zooplankton
 PotterCove	benthic	benthos
 PotterCove	benthic	zooplankton
@@ -201,17 +201,17 @@ PotterCove	benthic	benthos
 PotterCove	benthic	zooplankton
 PotterCove	benthopelagic	benthos
 PotterCove	pelagic	zooplankton
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
 PotterCove	benthic	benthos
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
 PotterCove	benthic	benthos
 PotterCove	benthic	fish
 PotterCove	benthic	benthos
 PotterCove	benthic	benthos
 PotterCove	benthic	benthos
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
 PotterCove	benthic	benthos
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
 PotterCove	benthic	benthos
 PotterCove	benthopelagic	zooplankton
 PotterCove	benthic	benthos
@@ -220,7 +220,7 @@ PotterCove	benthic	benthos
 PotterCove	benthic	benthos
 PotterCove	benthic	benthos
 PotterCove	benthopelagic	benthos
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
 PotterCove	benthopelagic	fish
 PotterCove	benthopelagic	fish
 PotterCove	benthopelagic	benthos
@@ -232,8 +232,8 @@ PotterCove	benthic	benthos
 PotterCove	benthic	zooplankton
 PotterCove	benthic	benthos
 PotterCove	benthopelagic	zooplankton
-PotterCove	benthic	basal taxa
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
+PotterCove	benthic	basal
 PotterCove	benthic	fish
 PotterCove	benthic	zooplankton
 PotterCove	benthic	benthos
@@ -241,22 +241,22 @@ PotterCove	benthic	benthos
 PotterCove	benthic	zooplankton
 PotterCove	benthic	benthos
 PotterCove	benthic	benthos
-PotterCove	benthic	basal taxa
-PotterCove	pelagic	basal taxa
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
+PotterCove	pelagic	basal
+PotterCove	benthic	basal
 PotterCove	benthic	benthos
 PotterCove	pelagic	zooplankton
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
 PotterCove	benthic	benthos
 PotterCove	benthic	zooplankton
 PotterCove	benthic	benthos
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
 PotterCove	benthic	benthos
 PotterCove	benthic	zooplankton
 PotterCove	benthic	zooplankton
 PotterCove	pelagic	fish
 PotterCove	benthic	zooplankton
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
 PotterCove	benthic	benthos
 PotterCove	benthic	benthos
 PotterCove	pelagic	zooplankton
@@ -267,11 +267,11 @@ PotterCove	benthic	benthos
 PotterCove	benthic	benthos
 PotterCove	benthic	benthos
 PotterCove	benthic	benthos
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
 PotterCove	benthopelagic	fish
 PotterCove	benthopelagic	fish
-PotterCove	benthic	basal taxa
-PotterCove	benthic	basal taxa
+PotterCove	benthic	basal
+PotterCove	benthic	basal
 PotterCove	benthic	benthos
 PotterCove	benthic	zooplankton
 PotterCove	benthic	benthos
