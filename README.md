@@ -2,9 +2,9 @@
 
 Paquete de R para calcular y graficar la proporción de los traits habitat y grupo funcional de las especies de un ecosistema
 
-##Dataset Example
+##Dataset de ejemplo
 
-El archivo "traits.txt" contiene la clasificación de las especies del canal de Beagle y la caleta Potter recopilados por la autora de este paquete _Iara D. Rodriguez_, usando como base de los siguientes papers:
+El archivo "traits.txt" contiene la clasificación de las especies del canal de Beagle (Ushuaia, Argentina) y la caleta Potter (Península Antárctica) recopilados por la autora de este paquete _Iara D. Rodriguez_, usando como base de los siguientes papers:
 
   * Marina, T. I., Salinas, V., Cordone, G., Campana, G., Moreira, E., Deregibus, D., Momo, F. R. (2018). *The Food Web of Potter Cove (Antarctica): complexity, structure and function.* Estuarine, Coastal and Shelf Science, 200, 141–151. https://doi.org/10.1016/j.ecss.2017.10.015
  
