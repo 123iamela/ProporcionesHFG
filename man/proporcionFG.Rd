@@ -12,9 +12,9 @@ proporcionFG(data)
 \value{
 una tabla con los siguientes campos:
         Name: nombre del ecosistema
-        FunctionalGroup: categorias dentro de habitat/grupo funcional
-        n: total de especies por categoría
-        propFG: proporción de especies por categoria
+        FunctionalGroup: categorias dentro de grupo funcional
+        n: total de especies por categoria
+        propFG: proporción de especies por categoria de grupo funcional
 }
 \description{
 Total de especies y proporciones por grupo funcional

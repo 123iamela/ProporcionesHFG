@@ -12,9 +12,9 @@ proporcionH(data)
 \value{
 una tabla con los siguientes campos:
         Name: nombre del ecosistema
-        Habitat: categorias dentro de habitat/grupo funcional
+        Habitat: categorias dentro de habitat
         n: total de especies por categoría
-        propH: proporción de especies por categoria
+        propH: proporción de especies por categoria de habitat
 }
 \description{
 Total de especies y proporciones por habitat
