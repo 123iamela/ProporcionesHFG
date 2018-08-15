@@ -2,10 +2,19 @@
 % Please edit documentation in R/proporciones.R
 \name{plotpFG}
 \alias{plotpFG}
-\title{PARA GRUPOS FUNCIONALES}
+\title{Grafico de las proporciones de grupos funcionales}
 \usage{
 plotpFG(pFG)
 }
+\arguments{
+\item{pFG}{un data frame}
+}
+\value{
+un gráfico
+}
 \description{
-PARA GRUPOS FUNCIONALES
+Grafico de las proporciones de grupos funcionales
+}
+\examples{
+plotpFG(FunctionalGroup)
 }

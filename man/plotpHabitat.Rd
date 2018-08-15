@@ -2,24 +2,19 @@
 % Please edit documentation in R/proporciones.R
 \name{plotpHabitat}
 \alias{plotpHabitat}
-\title{GRÁFICO DE LAS PROPORCIONES DE HÁBITATS Y GRUPOS FUNCIONALES}
+\title{Grafico de las proporciones de habitat}
 \usage{
 plotpHabitat(pH)
 }
 \arguments{
 \item{pH}{un data frame}
-
-\item{pFG}{un data frame}
 }
 \value{
 un gráfico
 }
 \description{
-GRÁFICO DE LAS PROPORCIONES DE HÁBITATS Y GRUPOS FUNCIONALES
+Grafico de las proporciones de habitat
 }
 \examples{
-
 plotpHabitat(Habitat)
-plotpFG(FunctionalGroup)
-PARA HÁBITATS
 }

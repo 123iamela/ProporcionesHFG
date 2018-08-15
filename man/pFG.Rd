@@ -2,10 +2,23 @@
 % Please edit documentation in R/proporciones.R
 \name{pFG}
 \alias{pFG}
-\title{PARA GRUPOS FUNCIONALES}
+\title{Total de especies y proporciones por grupo funcional}
 \usage{
 pFG(data)
 }
+\arguments{
+\item{data}{un data frame}
+}
+\value{
+una tabla con los siguientes campos:
+        Name: nombre del ecosistema
+        FunctionalGroup: categorias dentro de habitat/grupo funcional
+        n: total de especies por categoría
+        propFG: proporción de especies por categoria
+}
 \description{
-PARA GRUPOS FUNCIONALES
+Total de especies y proporciones por grupo funcional
+}
+\examples{
+FunctionalGroup <- pFG(tabla)
 }

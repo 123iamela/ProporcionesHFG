@@ -2,7 +2,7 @@
 % Please edit documentation in R/proporciones.R
 \name{pH}
 \alias{pH}
-\title{CÁLCULO DEL TOTAL DE ESPECIES Y PROPORCIONES POR HÁBITATS Y GRUPOS FUNCIONALES}
+\title{Total de especies y proporciones por habitat}
 \usage{
 pH(data)
 }
@@ -12,16 +12,13 @@ pH(data)
 \value{
 una tabla con los siguientes campos:
         Name: nombre del ecosistema
-        Habitat/FunctionalGroup: categorias dentro de habitat/grupo funcional
+        FunctionalGroup: categorias dentro de habitat/grupo funcional
         n: total de especies por categoría
-        propH/propFG: proporción de especies por categoria
+        propFG: proporción de especies por categoria
 }
 \description{
-CÁLCULO DEL TOTAL DE ESPECIES Y PROPORCIONES POR HÁBITATS Y GRUPOS FUNCIONALES
+Total de especies y proporciones por habitat
 }
 \examples{
-
 Habitat <- pH(tabla)
-FunctionalGroup <- pFG(tabla)
-PARA HÁBITATS
 }
