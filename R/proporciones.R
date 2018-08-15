@@ -31,7 +31,7 @@ readFile<- function(fileName) {
 #'         propH: proporción de especies por categoria de habitat
 #'
 #' @export
-#' @importFrom dplyr    group_by %>% summarise mutate
+#' @importFrom dplyr    group_by %>% summarize mutate
 #'
 #' @examples
 #' Habitat <- proporcionH(tabla)
@@ -50,11 +50,11 @@ proporcionH <- function(data) {
 #' @return una tabla con los siguientes campos:
 #'         Name: nombre del ecosistema
 #'         FunctionalGroup: categorias dentro de grupo funcional
-#'         n: total de especies por categoría
+#'         n: total de especies por categoria
 #'         propFG: proporción de especies por categoria de grupo funcional
 #'
 #' @export
-#' @importFrom dplyr    group_by %>% summarise mutate
+#' @importFrom dplyr    group_by %>% summarize mutate
 #'
 #' @examples
 #' FunctionalGroup <- proporcionFG(tabla)
