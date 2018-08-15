@@ -31,7 +31,7 @@ readFile<- function(fileName) {
 #'         propH: proporción de especies por categoria de habitat
 #'
 #' @export
-#' @importFrom dplyr    group_by %>% summarize mutate
+#' @importFrom dplyr group_by %>% summarize mutate
 #'
 #' @examples
 #' Habitat <- proporcionH(tabla)
@@ -54,7 +54,7 @@ proporcionH <- function(data) {
 #'         propFG: proporción de especies por categoria de grupo funcional
 #'
 #' @export
-#' @importFrom dplyr    group_by %>% summarize mutate
+#' @importFrom dplyr group_by %>% summarize mutate
 #'
 #' @examples
 #' FunctionalGroup <- proporcionFG(tabla)
@@ -74,7 +74,7 @@ proporcionFG <- function(data) {
 #' @return un gráfico
 #'
 #' @export
-#' @importFrom ggplot2    ggplot geom_bar theme_bw scale_fill_brewer
+#' @importFrom ggplot2 ggplot geom_bar theme_bw scale_fill_brewer
 #'
 #' @examples
 #' plotpHabitat(Habitat)
@@ -88,12 +88,12 @@ plotpHabitat <- function(proporcionH) {
 
 #'Grafico de las proporciones de grupos funcionales
 #'
-#'@param proporcionFG un data frame
+#' @param proporcionFG un data frame
 #'
 #' @return un gráfico
 #'
 #' @export
-#' @importFrom ggplot2    ggplot geom_bar theme_bw scale_fill_brewer
+#' @importFrom ggplot2 ggplot geom_bar theme_bw scale_fill_brewer
 #'
 #' @examples
 #' plotpFG(FunctionalGroup)
