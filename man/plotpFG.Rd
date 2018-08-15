@@ -4,10 +4,10 @@
 \alias{plotpFG}
 \title{Grafico de las proporciones de grupos funcionales}
 \usage{
-plotpFG(pFG)
+plotpFG(proporcionFG)
 }
 \arguments{
-\item{pFG}{un data frame}
+\item{proporcionFG}{un data frame}
 }
 \value{
 un gráfico

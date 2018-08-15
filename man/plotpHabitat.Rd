@@ -4,10 +4,10 @@
 \alias{plotpHabitat}
 \title{Grafico de las proporciones de habitat}
 \usage{
-plotpHabitat(pH)
+plotpHabitat(proporcionH)
 }
 \arguments{
-\item{pH}{un data frame}
+\item{proporcionH}{un data frame}
 }
 \value{
 un gráfico
