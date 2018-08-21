@@ -10,7 +10,7 @@ plotpFG(proporcionFG)
 \item{proporcionFG}{un data frame}
 }
 \value{
-un gráfico
+un gráfico de barras
 }
 \description{
 Grafico de las proporciones de grupos funcionales

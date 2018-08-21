@@ -10,7 +10,7 @@ plotpHabitat(proporcionH)
 \item{proporcionH}{un data frame}
 }
 \value{
-un gráfico
+un gráfico de barras
 }
 \description{
 Grafico de las proporciones de habitat
