@@ -8,10 +8,9 @@
 #' @export
 #'
 #' @examples
-#'# Lee archivo con ecosistema, habitat y grupo funcional separado en columnas por tabulaciones
+#' Lee archivo con ecosistema, habitat y grupo funcional separado en columnas por tabulaciones
 #'
-#'fileName <- system.file("exdata", "traits.txt", package = "Proporciones")
-#'tabla <- readFile(fileName)
+#' tabla <- readFile(fileName)
 
 readFile<- function(fileName) {
 
