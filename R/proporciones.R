@@ -1,4 +1,4 @@
-#' Lectura archivo datos
+#' Lectura de archivo de datos
 #'
 #' Lee archivos que contengan el habitat y grupo funcional de las especies de uno o varios ecosistemas en formato .csv o separados por tabulaciones en columnas
 #'
@@ -9,7 +9,6 @@
 #'
 #' @examples
 #' Lee archivo con ecosistema, habitat y grupo funcional separado en columnas por tabulaciones
-#'
 #' tabla <- readFile(fileName)
 
 readFile<- function(fileName) {

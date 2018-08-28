@@ -2,7 +2,7 @@
 % Please edit documentation in R/proporciones.R
 \name{readFile}
 \alias{readFile}
-\title{Lectura archivo datos}
+\title{Lectura de archivo de datos}
 \usage{
 readFile(fileName)
 }
@@ -17,6 +17,5 @@ Lee archivos que contengan el habitat y grupo funcional de las especies de uno o
 }
 \examples{
 Lee archivo con ecosistema, habitat y grupo funcional separado en columnas por tabulaciones
-
 tabla <- readFile(fileName)
 }
