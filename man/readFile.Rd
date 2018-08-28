@@ -17,5 +17,6 @@ Lee archivos que contengan el habitat y grupo funcional de las especies de uno o
 }
 \examples{
 Lee archivo con ecosistema, habitat y grupo funcional separado en columnas por tabulaciones
+
 tabla <- readFile(fileName)
 }
