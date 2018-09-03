@@ -16,5 +16,6 @@ un gráfico de barras
 Grafico de las proporciones de grupos funcionales
 }
 \examples{
-plotpFG(FunctionalGroup)
+\dontrun{
+plotpFG(FunctionalGroup)}
 }

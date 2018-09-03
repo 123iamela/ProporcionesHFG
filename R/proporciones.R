@@ -6,10 +6,12 @@
 #'
 #' @return un data frame
 #' @export
+#' @importFrom utils read.delim
 #'
 #' @examples
-#' Lee archivo con ecosistema, habitat y grupo funcional separado en columnas por tabulaciones
-#' tabla <- readFile(fileName)
+#' # Lee archivo con ecosistema, habitat y grupo funcional separado en columnas por tabulaciones
+#' \dontrun{
+#' tabla <- readFile(fileName)}
 
 readFile<- function(fileName) {
 
@@ -32,7 +34,8 @@ readFile<- function(fileName) {
 #' @importFrom dplyr group_by %>% summarize mutate
 #'
 #' @examples
-#' Habitat <- proporcionH(tabla)
+#' \dontrun{
+#' Habitat <- proporcionH(tabla)}
 
 proporcionH <- function(data) {
 
@@ -55,7 +58,8 @@ proporcionH <- function(data) {
 #' @importFrom dplyr group_by %>% summarize mutate
 #'
 #' @examples
-#' FunctionalGroup <- proporcionFG(tabla)
+#' \dontrun{
+#' FunctionalGroup <- proporcionFG(tabla)}
 
 proporcionFG <- function(data) {
 
@@ -75,7 +79,8 @@ proporcionFG <- function(data) {
 #' @importFrom ggplot2 ggplot geom_bar theme_bw scale_fill_brewer
 #'
 #' @examples
-#' plotpHabitat(Habitat)
+#' \dontrun{
+#' plotpHabitat(Habitat)}
 
 plotpHabitat <- function(proporcionH) {
 
@@ -94,7 +99,8 @@ plotpHabitat <- function(proporcionH) {
 #' @importFrom ggplot2 ggplot geom_bar theme_bw scale_fill_brewer
 #'
 #' @examples
-#' plotpFG(FunctionalGroup)
+#' \dontrun{
+#' plotpFG(FunctionalGroup)}
 
 plotpFG <- function(proporcionFG) {
 

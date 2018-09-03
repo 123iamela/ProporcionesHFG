@@ -16,5 +16,6 @@ un gráfico de barras
 Grafico de las proporciones de habitat
 }
 \examples{
-plotpHabitat(Habitat)
+\dontrun{
+plotpHabitat(Habitat)}
 }

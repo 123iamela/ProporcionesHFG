@@ -20,5 +20,6 @@ una tabla con los siguientes campos:
 Total de especies y proporciones por grupo funcional
 }
 \examples{
-FunctionalGroup <- proporcionFG(tabla)
+\dontrun{
+FunctionalGroup <- proporcionFG(tabla)}
 }

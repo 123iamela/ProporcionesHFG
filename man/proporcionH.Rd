@@ -20,5 +20,6 @@ una tabla con los siguientes campos:
 Total de especies y proporciones por habitat
 }
 \examples{
-Habitat <- proporcionH(tabla)
+\dontrun{
+Habitat <- proporcionH(tabla)}
 }
