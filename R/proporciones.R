@@ -76,7 +76,7 @@ proporcionFG <- function(data) {
 #' @return un gráfico de barras
 #'
 #' @export
-#' @importFrom ggplot2 ggplot geom_bar theme_bw scale_fill_brewer
+#' @importFrom ggplot2 ggplot aes geom_bar theme_bw scale_fill_brewer
 #'
 #' @examples
 #' \dontrun{
@@ -96,7 +96,7 @@ plotpHabitat <- function(proporcionH) {
 #' @return un gráfico de barras
 #'
 #' @export
-#' @importFrom ggplot2 ggplot geom_bar theme_bw scale_fill_brewer
+#' @importFrom ggplot2 ggplot aes geom_bar theme_bw scale_fill_brewer
 #'
 #' @examples
 #' \dontrun{
